@@ -14,6 +14,5 @@
 - Dreamshaper 8
 - OpenJuroney 4
 - Realistic Vision V5
-
-First Version coming soon. more rigorus of the stability is needed before release
-(YES THIS WAS MADE IN A SCRATCH VERSION, NOT SCRATCH https://penguinmod.com A BETTER VERSION OF SCRATCH)
+#
+**Made In:** https://penguinmod.com
