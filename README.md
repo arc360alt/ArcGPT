@@ -1,3 +1,4 @@
+#### if you are viewing this on a website click here to visit the web version >>> [https://arc360alt.github.io/ArcGPT/ArcGPT03.html](https://arc360alt.github.io/ArcGPT/ArcGPT03.html)
 ![gaming](https://github.com/user-attachments/assets/c447938d-83a7-47c6-a766-79dec071a25e)
 # ArcBot, An easy-to-use AI bot made in penguin mod using all of the modern and new AI models 
 ## If you are having problems like "ArcGPT: Network was not OK: 500" try flipping around models until you get a proper response, some models don't work all the time.
@@ -16,4 +17,4 @@
 - OpenJuroney 4
 - Realistic Vision V5
 #
-**Made In** https://penguinmod.com
+#### **Made In** https://penguinmod.com
