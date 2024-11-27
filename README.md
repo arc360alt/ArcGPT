@@ -1,5 +1,3 @@
-# This is currently broken thanks to a Banned CNAME record according to Cloudflare, it's not my job, it's the extension creator's job, dont make issues about this, it will get fixed eventually.
-
 #### if you are viewing this on a website click here to visit the web version >>> [https://arc360alt.github.io/ArcGPT/ArcGPT03.html](https://arc360alt.github.io/ArcGPT/ArcGPT03.html)
 ![gaming](https://github.com/user-attachments/assets/c447938d-83a7-47c6-a766-79dec071a25e)
 # ArcBot, An easy-to-use AI bot made in penguin mod using all of the modern and new AI models 
