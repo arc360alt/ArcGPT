@@ -1,4 +1,4 @@
-#### if you are viewing this on a website click here to visit the web version >>> [https://arc360alt.github.io/ArcGPT/ArcGPT%203o1.html](https://arc360alt.github.io/ArcGPT/ArcGPT%203o1.html)
+#### If you are viewing this on a website click here to visit the web version >>> [https://arc360alt.github.io/ArcGPT/ArcGPT%203o1.html](https://arc360alt.github.io/ArcGPT/ArcGPT%203o1.html)
 ![gaming](https://github.com/user-attachments/assets/c447938d-83a7-47c6-a766-79dec071a25e)
 # ArcBot, An easy-to-use AI bot made in penguin mod using all of the modern and new AI models 
 ## If you are having problems like "ArcGPT: Network was not OK: 500" try flipping around models until you get a proper response, some models don't work all the time.
@@ -7,14 +7,13 @@
 
 ## Included Models: (can be accessed by pressing the AI model text)
 - LLama 3.2 7B (unstable)
-- Gemma 9B it
+- Gemma 7B it
 - Minstral 7B instruct 0.2 (works really well)
 - Claude 3.5 Sonnet
 
 ## Image Generation Models:
-- Flex Pro
-- Dreamshaper 8
-- OpenJuroney 4
-- Realistic Vision V5
+- Sable Diffusion (RECOMMENDED, WORKS VERY GOOD)
+- sdxl lighting step 4 (auto downloads requests and doesn't work too good)
+- Playground V2.5 (untested by me)
 #
 #### **Made In** https://penguinmod.com
