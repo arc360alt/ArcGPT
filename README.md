@@ -25,6 +25,6 @@
 - Sable Diffusion (RECOMMENDED, WORKS VERY GOOD)
 - sdxl lighting step 4 
 - Flex
-#
+
 #### **Made In** https://penguinmod.com
 
