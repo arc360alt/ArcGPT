@@ -5,6 +5,8 @@
 ![Screenshot 2024-08-17 151448](https://github.com/user-attachments/assets/c3cbf1f9-a4f2-4555-8072-7af28fea1031) (chatbot using 4o Mini)
 ![image](https://github.com/user-attachments/assets/a06f2379-22c2-410c-8435-b3bfe144e9b9) (Prompt: gaming, Dreamshaper 8 model)
 
+## View the [Roadmap](https://arc360alt.github.io/ArcGPT/Roadmap.html) To see the future of this project.
+
 ## Included Models: (can be accessed by pressing the AI model text)
 - GPT 4
 - GPT 4o
