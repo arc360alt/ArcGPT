@@ -7,7 +7,7 @@
         <img border="0" alt="W3Schools" src="https://github.com/user-attachments/assets/36d947b8-8d6b-416b-b2dc-5fa311cb5764" width="201" height="255"> 
     <a>
         <a href="ArcGPT4oMobile.html">
-          <img border="0" alt="W3Schools" src="https://github.com/user-attachments/assets/65bd720c-12ff-4f96-997f-3253a0b9d27e" width="201" height="255">
+          <img border="0" alt="W3Schools" src="https://github.com/user-attachments/assets/e4919b25-5b4a-4733-86c7-392111316c20" width="201" height="255">
         </a>
 
 ![Screenshot 2024-08-17 151448](https://github.com/user-attachments/assets/c3cbf1f9-a4f2-4555-8072-7af28fea1031) (chatbot using 4o Mini)
