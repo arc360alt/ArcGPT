@@ -6,15 +6,15 @@
 ![image](https://github.com/user-attachments/assets/a06f2379-22c2-410c-8435-b3bfe144e9b9) (Prompt: gaming, Dreamshaper 8 model)
 
 ## Included Models: (can be accessed by pressing the AI model text)
-- LLama 3.2 7B (unstable)
-- Gemma 7B it
-- Minstral 7B instruct 0.2 (works really well)
+- GPT 4
+- GPT 4o
+- Gemini Pro
 - Claude 3.5 Sonnet
 
 ## Image Generation Models:
 - Sable Diffusion (RECOMMENDED, WORKS VERY GOOD)
-- sdxl lighting step 4 (auto downloads requests and doesn't work too good)
-- Playground V2.5 (untested by me)
+- sdxl lighting step 4 
+- Flex
 #
 #### **Made In** https://penguinmod.com
 
