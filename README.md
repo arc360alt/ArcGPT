@@ -1,3 +1,5 @@
+# Guess what, Penguinmod is offline ***AGAIN*** for an extended period of time, so this AI chatbot does not work at all, something I cannot fix right now.
+
 ![gaming](https://github.com/user-attachments/assets/9d3fcb69-5b34-43cb-a32a-6432d1d58872)
 # ArcBot, An easy-to-use AI bot made in penguin mod using all of the modern and new AI models 
 ## If you have issues, check the new [FAQ](https://arc360alt.github.io/ArcGPT/faq.html) with a bunch of fixes to some current issues. ([https://arc360alt.github.io/ArcGPT/faq.html](https://arc360alt.github.io/ArcGPT/faq.html))
