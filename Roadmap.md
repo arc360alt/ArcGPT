@@ -1,2 +1,2 @@
 # Roadmap for ArcGPT
-![Roadmap2](https://github.com/user-attachments/assets/fd0f2efb-f73e-44cc-81e3-e6f59aada1f6)
+![Roadmap](https://github.com/user-attachments/assets/d7106ba0-47d3-4a65-ab50-979b3459731f)
