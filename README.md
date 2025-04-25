@@ -13,7 +13,11 @@
         </a>
 
 # Please use this [temorary gemini version of ArcGPT](https://arc360alt.github.io/ArcGPT/ArcGPT%204o%20Gemini.html) due to problems whith PenguinAI (the AI extention i use)
-## [Or try our new Python Version (WINDOWS ONLY FOR NOW](https://github.com/arc360alt/ArcGPT/releases/tag/Py0.2)
+## [Or try our new Python Version](https://github.com/arc360alt/ArcGPT/releases/tag/Py0.2)
+ArcGPT Gemini Python verison tested OS's:
+- Windows ✅
+- Linux (Ubuntu tested, other distros will probably work) ✅
+- MacOS (Someone test this for me please) ❓
 
 ![Screenshot 2024-08-17 151448](https://github.com/user-attachments/assets/c3cbf1f9-a4f2-4555-8072-7af28fea1031) (chatbot using 4o Mini)
 ![image](https://github.com/user-attachments/assets/a06f2379-22c2-410c-8435-b3bfe144e9b9) (Prompt: gaming, Dreamshaper 8 model)
