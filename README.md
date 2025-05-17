@@ -5,14 +5,13 @@
 ## If you have issues, check the new [Wiki](https://github.com/arc360alt/ArcGPT/wiki) with a bunch of fixes to some current issues.
 # Choose Your Device:
 
-<a href="https://arc360alt.github.io/ArcGPT/ArcGPT 4o Gemini.html">
+<a href="https://arc360alt.github.io/ArcGPT/ArcGPT 5o.html">
         <img border="0" alt="W3Schools" src="https://github.com/user-attachments/assets/36d947b8-8d6b-416b-b2dc-5fa311cb5764" width="201" height="255"> 
     <a>
         <a href="ArcGPT4oMobile.html">
           <img border="0" alt="W3Schools" src="https://github.com/user-attachments/assets/e4919b25-5b4a-4733-86c7-392111316c20" width="201" height="255">
         </a>
 
-# Please use this [temorary gemini version of ArcGPT](https://arc360alt.github.io/ArcGPT/ArcGPT%204o%20Gemini.html) due to problems whith PenguinAI (the AI extention i use)
 ## [Or try our new Python Version](https://github.com/arc360alt/ArcGPT/releases/tag/Py0.2)
 ArcGPT Gemini Python verison tested OS's:
 - Windows ✅
