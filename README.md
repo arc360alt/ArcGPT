@@ -10,7 +10,7 @@
           <img border="0" alt="W3Schools" src="https://github.com/user-attachments/assets/e4919b25-5b4a-4733-86c7-392111316c20" width="201" height="255">
         </a>
 
-## [Or try our new Python Version](https://github.com/arc360alt/ArcGPT/releases/tag/Py0.2)
+## 🆕 [Or try our new Python Version](https://github.com/arc360alt/ArcGPT/releases/tag/Py0.2)
 ArcGPT Gemini Python verison tested OS's:
 - Windows ✅
 - Linux (Ubuntu tested, other distros will probably work) ✅
@@ -20,9 +20,9 @@ ArcGPT Gemini Python verison tested OS's:
 ![image](https://github.com/user-attachments/assets/a06f2379-22c2-410c-8435-b3bfe144e9b9) (Prompt: gaming, Dreamshaper 8 model)
 
 
-## View the [Roadmap](https://arc360alt.github.io/ArcGPT/Roadmap.html) To see the future of this project.
+## ⬆️ View the [Roadmap](https://arc360alt.github.io/ArcGPT/Roadmap.html) To see the future of this project.
 
-## Included models (gemini version):
+## 🧠 Included models (gemini version):
 - Gemini 2 Flash
 
 Included Models (in broken version): (can be accessed by pressing the AI model text)
@@ -36,5 +36,5 @@ Image Generation Models (in Broken Version):
 - sdxl lighting step 4 
 - Flex
 
-#### **Made In** https://penguinmod.com
+#### 🐧 **Made In** https://penguinmod.com
 
