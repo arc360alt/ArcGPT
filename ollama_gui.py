@@ -313,7 +313,7 @@ class ChatSidebar(QWidget):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Ollama AI Chat • Multi-Chat")
+        self.setWindowTitle("ArkGPT - Ollama Edition")
         self.resize(780, 800)
         self.setMinimumWidth(420)
         self.settings = {
@@ -361,7 +361,7 @@ class MainWindow(QMainWindow):
         """)
         header_layout = QHBoxLayout(self.header)
         header_layout.setContentsMargins(12, 2, 12, 2)
-        self.title = QLabel("Ollama AI")
+        self.title = QLabel("ArkGPT - Ollama Edition")
         self.title.setStyleSheet("font-size:22px;font-weight:600;letter-spacing:0.5px; color: #fff;")
         header_layout.addWidget(self.title)
         header_layout.addStretch()

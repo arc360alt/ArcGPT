@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ArkNote</title>
+  <meta name="viewport" content="width=900, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Inter:400,500,700,800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Fira+Mono:400,500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <canvas id="blob-canvas"></canvas>
+  <div class="overlay-blur"></div>
+  <div class="background">
+    <div class="zoom-wrap">
+      <div class="content-square">
+        <div class="main-header">
+          <div class="header-flex">
+            <div class="main-img-wrapper">
+              <img src="img1.png" alt="ArkNote Screenshot" class="main-img">
+            </div>
+            <div class="header-right">
+              <h1>ArkGPT</h1>
+              <p class="subtitle">A simple AI app<br>with the looks.</p>
+              <button class="download-btn" id="scroll-install-btn">
+                Download ArkNote!
+              </button>
+              <div class="version-info top-version">
+                latest version: 0.1 - 6/28/25 11:20PM
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="features-section">
+          <h2>Why this app is so specal</h2>
+          <div class="features-flex">
+            <div class="feature">
+              <img src="img2.png" alt="Feature 1">
+              <h3>Sleek UI made in PySide6</h3>
+              <p>The UI is nice and consistent and wont burn your eyes, we even have multiple chat support!</p>
+            </div>
+            <div class="feature">
+              <img src="img3.png" alt="Feature 2">
+              <h3>Coded purely in Python</h3>
+              <p>It is coded fully in python, bringing performance benefits and ease of updating and modding</p>
+            </div>
+            <div class="feature">
+              <img src="img4.png" alt="Feature 3">
+              <h3>Easy Configuration</h3>
+              <p>Easily configurable from a GUI that to be ohnest does not look that good</p>
+            </div>
+          </div>
+        </div>
+        <!-- Screenshots Section -->
+        <section class="screenshots-section">
+          <h2>Screenshots</h2>
+          <div class="screenshots-flex">
+            <img src="ss1.png" alt="Screenshot 1" class="screenshot-img">
+            <img src="ss2.png" alt="Screenshot 2" class="screenshot-img">
+          </div>
+        </section>
+        <!-- Installation Instructions Section -->
+        <section class="install-section" id="install-section">
+          <h2>Installation Instructions</h2>
+          <div class="install-flex">
+            <div class="install-block">
+              <h3>Windows</h3>
+              <button class="copy-btn" title="Copy to clipboard">📋</button>
+              <pre><code>git clone --branch ArcGPT-Ollama https://github.com/arc360alt/ArcGPT.git
+cd ArcGPT
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python ollama_gui.py
+              </code></pre>
+            </div>
+            <div class="install-block">
+              <h3>Linux</h3>
+              <button class="copy-btn" title="Copy to clipboard">📋</button>
+              <pre><code>git clone --branch ArcGPT-Ollama https://github.com/arc360alt/ArcGPT.git
+cd ArcGPT
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python ollama_gui.py
+              </code></pre>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+    <!-- Spacer to force bottom padding OUTSIDE of the rounded box, regardless of zoom/flex/viewport -->
+    <div class="page-bottom-spacer"></div>
+  </div>
+  <script src="blobs.js"></script>
+  <script>
+    // Wait for DOM ready
+    document.addEventListener('DOMContentLoaded', function() {
+      // Smooth scroll to install section on button click
+      var scrollBtn = document.getElementById('scroll-install-btn');
+      var installSection = document.getElementById('install-section');
+      if (scrollBtn && installSection) {
+        scrollBtn.addEventListener('click', function(e) {
+          e.preventDefault();
+          installSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+      }
+
+      // Copy button functionality for code blocks
+      document.querySelectorAll('.copy-btn').forEach(btn => {
+        btn.onclick = function() {
+          var code = btn.nextElementSibling.querySelector('code').textContent.trim();
+          navigator.clipboard.writeText(code).then(() => {
+            btn.textContent = "✔️";
+            setTimeout(() => btn.textContent = "📋", 1200);
+          });
+        };
+      });
+    });
+  </script>
+</body>
+</html>
