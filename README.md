@@ -1,4 +1,8 @@
-# Ollama Multi-Chat GUI
+![gaming](https://github.com/user-attachments/assets/100c3780-7da1-4cca-93ce-fe471a99aed7)
+
+## Please check [How to use](https://github.com/arc360alt/ArcGPT/edit/ArcGPT-Ollama/README.md#how-to-use) and [Troubleshooting](https://github.com/arc360alt/ArcGPT/edit/ArcGPT-Ollama/README.md#troubleshooting) before using!
+
+# ArkGPT Ollama
 
 This app is a Python Qt-based GUI for chatting with Ollama using multiple persistent chat sessions.  
 These instructions will guide you through setup on **Windows** and **Linux**.
@@ -70,7 +74,15 @@ python ollama_gui.py
 - If you get errors about missing PySide6 or markdown, re-run `pip install -r requirements.txt`
 - If you run into problems with DuckDuckGo search, you can comment out/remove the `duckduckgo_search` lines.
 - For Linux users, ensure you have Qt dependencies (e.g., `sudo apt install libxcb-xinerama0` for Ubuntu if you get Qt errors).
+- If you get an error about a localhost adress not being acsessable, go to the settings and make shure you have a Ollama LLM set, not having one set or not pressing OK after setting one opon first launch causes this issue
 
 ---
 
-Enjoy your multi-chat Ollama GUI!
+## Screenshots:
+![image](https://github.com/user-attachments/assets/b6eb7ea2-643d-429f-b44d-377db9a20c03)
+
+## How to use
+- Chat whith it
+- to use internet, check the 2 bottom options in the settings app, and type !usesearch to force the bot to use DuckDuckGo to search (unchangable)
+- You can use multiple chats that save, and the bot will remember what you said in each one, the memory will not reset after a relaunch. but memory acrost multiple chats does not work
+- Create an issue if you got an error and i can clarify it!
