@@ -2,7 +2,7 @@ echo "-------------------------------------"
 echo "   ArkGPT Easy Install Script 0.1"
 echo "-------------------------------------"
 echo "installing Ollama if you have not already"
-
+echo "LINUX ONLY!!"
 echo "If you have already installed Ollama press ctrl+c to quit that script"
 
 curl -fsSL https://ollama.com/install.sh | sh
