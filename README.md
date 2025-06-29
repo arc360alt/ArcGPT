@@ -18,6 +18,12 @@ These instructions will guide you through setup on **Windows** and **Linux**.
 
 ---
 
+# Easy Install on Linux
+- ``curl https://raw.githubusercontent.com/arc360alt/ArcGPT/refs/heads/ArcGPT-Ollama/install.sh | sh ``
+- Then after install
+- ``cd ArcGPT``
+- ``./run.sh``
+
 ## 1. Clone the Repository (ArcGPT-Ollama Branch)
 
 ```sh
