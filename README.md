@@ -1,6 +1,8 @@
+![gaming](https://github.com/user-attachments/assets/0b75ef0f-f4e6-47e0-bb01-c6af7c77807e)
+
 ## Please check [How to use](https://github.com/arc360alt/ArcGPT/edit/ArcGPT-Ollama/README.md#how-to-use) and [Troubleshooting](https://github.com/arc360alt/ArcGPT/edit/ArcGPT-Ollama/README.md#troubleshooting) before using!
 
-# Ollama Multi-Chat GUI
+# ArkGPT Ollama
 
 This app is a Python Qt-based GUI for chatting with Ollama using multiple persistent chat sessions.  
 These instructions will guide you through setup on **Windows** and **Linux**.
