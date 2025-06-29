@@ -1,4 +1,4 @@
-![gaming](https://github.com/user-attachments/assets/0b75ef0f-f4e6-47e0-bb01-c6af7c77807e)
+![gaming](https://github.com/user-attachments/assets/100c3780-7da1-4cca-93ce-fe471a99aed7)
 
 ## Please check [How to use](https://github.com/arc360alt/ArcGPT/edit/ArcGPT-Ollama/README.md#how-to-use) and [Troubleshooting](https://github.com/arc360alt/ArcGPT/edit/ArcGPT-Ollama/README.md#troubleshooting) before using!
 
