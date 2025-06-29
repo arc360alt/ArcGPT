@@ -1,3 +1,4 @@
+# This is being depricated due to unstable API's and being allaround bad, please check out [ArkGPT Ollama](https://github.com/arc360alt/ArcGPT/tree/ArcGPT-Ollama)
 ![gaming](https://github.com/user-attachments/assets/9d3fcb69-5b34-43cb-a32a-6432d1d58872)
 # ArcBot, An easy-to-use AI bot made in penguin mod using all of the modern and new AI models 
 ## If you have issues, check the new [Wiki](https://github.com/arc360alt/ArcGPT/wiki) with a bunch of fixes to some current issues.
